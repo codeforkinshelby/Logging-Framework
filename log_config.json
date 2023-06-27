@@ -1,0 +1,6 @@
+{
+    "db_storage": true,
+    "log_level": "DEBUG",
+    "url": "http://localhost:81",
+    "app_id": 363
+}

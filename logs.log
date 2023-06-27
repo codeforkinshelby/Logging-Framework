@@ -1,0 +1,10 @@
+DEBUG|2023-06-26 19:50:11.872741|123|LAPTOP-R11VTUC8|Addition: 10 + 5 = 15|D:\AnotherUser\Class\CTS Cafe\Repo\Logging-Framework-Python_REC\Test Application\Simple_Calculator.py|add|1
+DEBUG|2023-06-26 19:50:13.936501|123|LAPTOP-R11VTUC8|Subtraction: 10 - 5 = 5|D:\AnotherUser\Class\CTS Cafe\Repo\Logging-Framework-Python_REC\Test Application\Simple_Calculator.py|subtract|1
+DEBUG|2023-06-26 19:50:15.975036|123|LAPTOP-R11VTUC8|Multiplication: 10 * 5 = 50|D:\AnotherUser\Class\CTS Cafe\Repo\Logging-Framework-Python_REC\Test Application\Simple_Calculator.py|multiply|1
+ERROR|2023-06-26 19:50:18.049741|123|LAPTOP-R11VTUC8|Divided by ZERO|D:\AnotherUser\Class\CTS Cafe\Repo\Logging-Framework-Python_REC\Test Application\Simple_Calculator.py|divide|30|ZeroDivisionError: division by zero|1030|1
+DEBUG|2023-06-26 19:50:58.268026|363|LAPTOP-R11VTUC8|Calculation: 6-3 = 3|D:\AnotherUser\Class\CTS Cafe\Repo\Logging-Framework-Python_REC\Test Application\GUI_Calculator.py|button_click|1
+DEBUG|2023-06-26 19:51:04.160725|363|LAPTOP-R11VTUC8|Calculation: 39/3 = 13.0|D:\AnotherUser\Class\CTS Cafe\Repo\Logging-Framework-Python_REC\Test Application\GUI_Calculator.py|button_click|1
+DEBUG|2023-06-26 19:51:07.554083|363|LAPTOP-R11VTUC8|Calculation: 13.02*6 = 78.12|D:\AnotherUser\Class\CTS Cafe\Repo\Logging-Framework-Python_REC\Test Application\GUI_Calculator.py|button_click|1
+DEBUG|2023-06-26 19:51:10.676092|363|LAPTOP-R11VTUC8|Calculation: 78.12+5 = 83.12|D:\AnotherUser\Class\CTS Cafe\Repo\Logging-Framework-Python_REC\Test Application\GUI_Calculator.py|button_click|1
+DEBUG|2023-06-26 19:51:13.141460|363|LAPTOP-R11VTUC8|Calculation: 83.129 = 83.129|D:\AnotherUser\Class\CTS Cafe\Repo\Logging-Framework-Python_REC\Test Application\GUI_Calculator.py|button_click|1
+ERROR|2023-06-26 19:51:25.804557|363|LAPTOP-R11VTUC8|Error occurred during calculation: 83.129/0|D:\AnotherUser\Class\CTS Cafe\Repo\Logging-Framework-Python_REC\Test Application\GUI_Calculator.py|button_click|49|ZeroDivisionError: float division by zero|1030|1
